@@ -1,0 +1,10 @@
+$ git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+nashe@NASHEETA MINGW64 ~/personal_projects/ibm/mcino-Introduction-to-Git-and-GitHub (main)
+$ git merge bug-fix-typo
+Updating 3707b5f..453f60f
+Fast-forward
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
